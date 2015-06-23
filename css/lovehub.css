@@ -448,7 +448,7 @@ a:hover .fa-circle {
 
 /* Progress Bar */
 
-#progress {
+#spenden {
     background-color: #151515;
     color: #fff;
 }
@@ -617,10 +617,10 @@ a.project-link:hover {
 
 /* Contact */
 
-#contact {
+#kontakt {
     width: 100%;
     color: #fff;
-    background: url(../img/3.jpg) no-repeat center center fixed;
+    background: url(http://www.goldeneradler.at/files/goldeneradler/userdata/slider/startseite/linz_urfahrmarkt.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
