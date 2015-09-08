@@ -624,6 +624,7 @@ a.project-link:hover {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
+
 }
 
 @media(max-width:1200px) {
